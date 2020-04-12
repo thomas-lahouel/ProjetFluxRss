@@ -1,0 +1,11 @@
+#formConn{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+#colform{
+    background-color: lightgray;
+}
+
